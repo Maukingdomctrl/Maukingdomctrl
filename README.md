@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating and learning new repositories 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on move
-- 📫 How to reach me p.pristine127@gmail.com
+- 📫 How to reach me: mau.pooja51@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a learner 
 
