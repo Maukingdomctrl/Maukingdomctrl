@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Maukingdomctrl
-- 👀 I’m interested in creating and learning new repositories 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on move
-- 📫 How to reach me: mau.pooja51@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a learner 
+# Hi, I'm Maukingdom 👋
 
-<!---
-Maukingdomctrl/Maukingdomctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build small, self-contained tools with Claude Code as a co-pilot.
+
+- **loopsmith** — spritesheets → clean animated emojis and GIFs, in the browser
+- **chess-endgame-classroom** — endgame trainer, every line checked by an exact solver
+- **claude-motion-design** — motion-design videos in pure code
+
+Small Solidity experiments on Base, too. Currently learning JavaScript properly.
+
+💬 Questions about a repo? Open an issue.
